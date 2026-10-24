@@ -33,6 +33,6 @@ Full-stack development projects, AI/ML applications, hackathons, and open-source
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ManikKhurana0007&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Great%20things%20are%20done%20by%20a%20series%20of%20small%20things%20brought%20together.&author=Vincent%20van%20Gogh)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
