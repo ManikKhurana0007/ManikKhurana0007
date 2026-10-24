@@ -33,6 +33,6 @@ Full-stack development projects, AI/ML applications, hackathons, and open-source
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ManikKhurana0007&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![Coding Quote](https://codequote.vercel.app/api/quote.svg?theme=github)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
